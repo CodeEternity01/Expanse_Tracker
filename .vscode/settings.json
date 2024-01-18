@@ -1,0 +1,6 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    },
+    "cmake.sourceDirectory": "C:/Users/rahul/Downloads/01 Starting Setup/expance_tracker/linux"
+}
